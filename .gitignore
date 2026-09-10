@@ -1,0 +1,15 @@
+# Compiled class files
+*.class
+bin/
+
+# IntelliJ IDEA
+**/.idea/
+**/out/
+*.iml
+
+# Eclipse
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
